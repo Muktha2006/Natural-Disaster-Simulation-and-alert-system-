@@ -1,1 +1,1 @@
-# Disaster-prediction-and-management-system
+# Natural Disaster Simulation and Alert System
